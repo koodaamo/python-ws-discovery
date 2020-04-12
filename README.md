@@ -1,10 +1,12 @@
+[![Documentation Status](https://readthedocs.org/projects/python-ws-discovery/badge/?version=latest)](https://python-ws-discovery.readthedocs.io/en/latest/?badge=latest)
+
 WS-Discovery in Python
 ======================
 This is WS-Discovery implementation for Python 3. It allows to both discover
 services and publish discoverable services. For Python 2 support, use the latest 1.x version
 of this package.
 
-Extensive [package documentation](https://koodaamo.github.io/python-ws-discovery) is available.
+Extensive [package documentation is available at ReadTheDocs](https://python-ws-discovery.readthedocs.io).
 
 Basic usage
 ------------
@@ -55,4 +57,3 @@ Python3 port done by Pieter Jordaan.
 
 Packaging, major refactoring & command-line clients and
 reStructuredText package documentation by Petri Savolainen.
-
