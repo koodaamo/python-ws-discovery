@@ -1,7 +1,12 @@
 Changelog
 ==========
 
-2.0.0 (unreleased)
+2.0.1 (unreleased)
+-------------------
+
+- nothing yet
+
+2.0.0 (2020-04-16)
 -------------------
 
 - decoupled threaded networking from ws-discovery implementation
